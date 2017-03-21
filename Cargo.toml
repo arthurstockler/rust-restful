@@ -1,0 +1,16 @@
+[package]
+name = "Order"
+version = "1.0.0"
+authors = ["Arthur Stockler <arthur.stockler@m4u.com.br>"]
+
+[dependencies]
+time = "*"
+iron="*"
+persistent="*"
+router = "*"
+postgres = "*"
+r2d2="*"
+r2d2_postgres="*"
+handlebars-iron="*"
+rustc-serialize = "*"
+hyper = "*"
